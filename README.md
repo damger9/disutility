@@ -6,7 +6,7 @@ The package is available on npmjs.org, to install it:
 ```bash
 npm i disutility
 ``` 
-and then just require it in your project! (TypeScript support coming soon)
+and then just require it in your project! (TypeScript support is now out!)
 
 # Code Example
 ```js
