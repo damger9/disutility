@@ -1,0 +1,25 @@
+{
+  "name": "disutility",
+  "version": "1.0.0",
+  "description": "NodeJS/NPM Package for various Discord (bot) utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "damger9",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damger9/disutility.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "utility",
+    "discordutils"
+  ],
+  "bugs": {
+    "url": "https://github.com/damger9/disutility/issues"
+  },
+  "homepage": "https://github.com/damger9/disutility#readme"
+}
