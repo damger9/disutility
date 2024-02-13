@@ -1,6 +1,6 @@
 {
   "name": "disutility",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "NodeJS/NPM Package for various Discord (bot) utils",
   "main": "index.js",
   "scripts": {
