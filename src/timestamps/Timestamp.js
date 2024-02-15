@@ -9,7 +9,7 @@ const TimestampType = require('./TimestampTypes') // Good idea to name these typ
 function Timestamp(timestampType, date) {      
     let d = date
 
-    if (!timestampType === undefined) throw new Error("No typestampType supplied")
+    if (!timestampType) throw new Error("No typestampType supplied")
     if (!d) {
         d = Math.round(new Date().getTime() / 1000)
     }
