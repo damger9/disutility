@@ -2,7 +2,8 @@
   "name": "disutility",
   "version": "0.1.4",
   "description": "NodeJS/NPM Package for various Discord (bot) utils",
-  "main": "index.js",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

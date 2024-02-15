@@ -11,6 +11,7 @@ npm install disutility
 and then just require it in your project! (TypeScript support is now out!)
 
 # Code Example
+Below are some useful code examples.
 
 ## Timestamp
 ```js
