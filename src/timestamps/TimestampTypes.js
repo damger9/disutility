@@ -1,5 +1,4 @@
 module.exports = {
-    
     /**
      * Shows time relatively, for example: 1 minute ago
      */

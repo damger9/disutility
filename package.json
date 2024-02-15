@@ -17,7 +17,9 @@
     "utility",
     "discordutils",
     "disutility",
-    "discord bot"
+    "discord bot",
+    "discord timestamps",
+    "timestamps"
   ],
   "bugs": {
     "url": "https://github.com/damger9/disutility/issues"
